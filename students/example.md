@@ -1,7 +1,7 @@
 # Student Profile - Example
 
-- **Name**: Your Name Here
-- **GitHub Username**: @yourusername
+- **Name**: neha
+- **GitHub Username**: @neha05prg
 - **Branch**: MCA
 - **Semester**: 1st / 2nd / 3rd / 4th
 - **Favorite Programming Language**: Python / Java / JavaScript / etc.
